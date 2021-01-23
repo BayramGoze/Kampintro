@@ -16,7 +16,7 @@ namespace metotTekrar
             urun2.productName = "Steelseries siberia kulaklık yastığı";
             urun2.productPrice = 56.95;
             urun2.productDescription = "9 cm çapı olan kulaklıklarla uyumludur";
-            urun2.productStock = 25;
+            urun2.productStock = 26;
         }
     }
 }
