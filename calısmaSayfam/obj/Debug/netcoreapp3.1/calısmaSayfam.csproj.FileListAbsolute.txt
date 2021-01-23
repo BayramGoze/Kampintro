@@ -1,0 +1,13 @@
+C:\Users\Bgoze\source\repos\Kampintro\calısmaSayfam\bin\Debug\netcoreapp3.1\calısmaSayfam.exe
+C:\Users\Bgoze\source\repos\Kampintro\calısmaSayfam\bin\Debug\netcoreapp3.1\calısmaSayfam.deps.json
+C:\Users\Bgoze\source\repos\Kampintro\calısmaSayfam\bin\Debug\netcoreapp3.1\calısmaSayfam.runtimeconfig.json
+C:\Users\Bgoze\source\repos\Kampintro\calısmaSayfam\bin\Debug\netcoreapp3.1\calısmaSayfam.runtimeconfig.dev.json
+C:\Users\Bgoze\source\repos\Kampintro\calısmaSayfam\bin\Debug\netcoreapp3.1\calısmaSayfam.dll
+C:\Users\Bgoze\source\repos\Kampintro\calısmaSayfam\bin\Debug\netcoreapp3.1\calısmaSayfam.pdb
+C:\Users\Bgoze\source\repos\Kampintro\calısmaSayfam\obj\Debug\netcoreapp3.1\calısmaSayfam.csprojAssemblyReference.cache
+C:\Users\Bgoze\source\repos\Kampintro\calısmaSayfam\obj\Debug\netcoreapp3.1\calısmaSayfam.AssemblyInfoInputs.cache
+C:\Users\Bgoze\source\repos\Kampintro\calısmaSayfam\obj\Debug\netcoreapp3.1\calısmaSayfam.AssemblyInfo.cs
+C:\Users\Bgoze\source\repos\Kampintro\calısmaSayfam\obj\Debug\netcoreapp3.1\calısmaSayfam.csproj.CoreCompileInputs.cache
+C:\Users\Bgoze\source\repos\Kampintro\calısmaSayfam\obj\Debug\netcoreapp3.1\calısmaSayfam.dll
+C:\Users\Bgoze\source\repos\Kampintro\calısmaSayfam\obj\Debug\netcoreapp3.1\calısmaSayfam.pdb
+C:\Users\Bgoze\source\repos\Kampintro\calısmaSayfam\obj\Debug\netcoreapp3.1\calısmaSayfam.genruntimeconfig.cache

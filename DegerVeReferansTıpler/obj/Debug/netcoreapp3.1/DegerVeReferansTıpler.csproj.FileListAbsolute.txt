@@ -1,0 +1,12 @@
+C:\Users\Bgoze\source\repos\Kampintro\DegerVeReferansTıpler\bin\Debug\netcoreapp3.1\DegerVeReferansTıpler.exe
+C:\Users\Bgoze\source\repos\Kampintro\DegerVeReferansTıpler\bin\Debug\netcoreapp3.1\DegerVeReferansTıpler.deps.json
+C:\Users\Bgoze\source\repos\Kampintro\DegerVeReferansTıpler\bin\Debug\netcoreapp3.1\DegerVeReferansTıpler.runtimeconfig.json
+C:\Users\Bgoze\source\repos\Kampintro\DegerVeReferansTıpler\bin\Debug\netcoreapp3.1\DegerVeReferansTıpler.runtimeconfig.dev.json
+C:\Users\Bgoze\source\repos\Kampintro\DegerVeReferansTıpler\bin\Debug\netcoreapp3.1\DegerVeReferansTıpler.dll
+C:\Users\Bgoze\source\repos\Kampintro\DegerVeReferansTıpler\bin\Debug\netcoreapp3.1\DegerVeReferansTıpler.pdb
+C:\Users\Bgoze\source\repos\Kampintro\DegerVeReferansTıpler\obj\Debug\netcoreapp3.1\DegerVeReferansTıpler.AssemblyInfoInputs.cache
+C:\Users\Bgoze\source\repos\Kampintro\DegerVeReferansTıpler\obj\Debug\netcoreapp3.1\DegerVeReferansTıpler.AssemblyInfo.cs
+C:\Users\Bgoze\source\repos\Kampintro\DegerVeReferansTıpler\obj\Debug\netcoreapp3.1\DegerVeReferansTıpler.csproj.CoreCompileInputs.cache
+C:\Users\Bgoze\source\repos\Kampintro\DegerVeReferansTıpler\obj\Debug\netcoreapp3.1\DegerVeReferansTıpler.dll
+C:\Users\Bgoze\source\repos\Kampintro\DegerVeReferansTıpler\obj\Debug\netcoreapp3.1\DegerVeReferansTıpler.pdb
+C:\Users\Bgoze\source\repos\Kampintro\DegerVeReferansTıpler\obj\Debug\netcoreapp3.1\DegerVeReferansTıpler.genruntimeconfig.cache
