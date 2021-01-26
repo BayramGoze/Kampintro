@@ -1,0 +1,13 @@
+C:\Users\Bgoze\source\repos\Kampintro\metotTekrar\bin\Debug\netcoreapp3.1\metotTekrar.exe
+C:\Users\Bgoze\source\repos\Kampintro\metotTekrar\bin\Debug\netcoreapp3.1\metotTekrar.deps.json
+C:\Users\Bgoze\source\repos\Kampintro\metotTekrar\bin\Debug\netcoreapp3.1\metotTekrar.runtimeconfig.json
+C:\Users\Bgoze\source\repos\Kampintro\metotTekrar\bin\Debug\netcoreapp3.1\metotTekrar.runtimeconfig.dev.json
+C:\Users\Bgoze\source\repos\Kampintro\metotTekrar\bin\Debug\netcoreapp3.1\metotTekrar.dll
+C:\Users\Bgoze\source\repos\Kampintro\metotTekrar\bin\Debug\netcoreapp3.1\metotTekrar.pdb
+C:\Users\Bgoze\source\repos\Kampintro\metotTekrar\obj\Debug\netcoreapp3.1\metotTekrar.csprojAssemblyReference.cache
+C:\Users\Bgoze\source\repos\Kampintro\metotTekrar\obj\Debug\netcoreapp3.1\metotTekrar.AssemblyInfoInputs.cache
+C:\Users\Bgoze\source\repos\Kampintro\metotTekrar\obj\Debug\netcoreapp3.1\metotTekrar.AssemblyInfo.cs
+C:\Users\Bgoze\source\repos\Kampintro\metotTekrar\obj\Debug\netcoreapp3.1\metotTekrar.csproj.CoreCompileInputs.cache
+C:\Users\Bgoze\source\repos\Kampintro\metotTekrar\obj\Debug\netcoreapp3.1\metotTekrar.dll
+C:\Users\Bgoze\source\repos\Kampintro\metotTekrar\obj\Debug\netcoreapp3.1\metotTekrar.pdb
+C:\Users\Bgoze\source\repos\Kampintro\metotTekrar\obj\Debug\netcoreapp3.1\metotTekrar.genruntimeconfig.cache

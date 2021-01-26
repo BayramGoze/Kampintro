@@ -2,7 +2,7 @@
 
 namespace Classİntro
 {
-    class Program
+    class Program //classlar içinde 1- özellik tutar 2- operasyonlar tutar. Özellik(prop) tuttugumuz yerde operasyon tutmuyoruz. Veya tam tersi
     {
         static void Main(string[] args)
         {

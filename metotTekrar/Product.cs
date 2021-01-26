@@ -13,4 +13,11 @@ namespace metotTekrar
         public int productStock { get; set; }
 
     }
+    class sepetManager
+    {
+        public void ekle(Product urun)
+        {
+            Console.WriteLine("Tebrikler. Sepete Eklendi!"+" : " + urun.productName);
+        }
+    }
 }
